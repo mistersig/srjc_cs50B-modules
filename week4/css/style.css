@@ -25,3 +25,24 @@ p{
 .F p{
     font-size: 20px;
 }
+
+
+.allseasons{
+    background-color: teal;
+}
+
+.spring{
+    background-color: rgb(252, 228, 248);
+}
+
+.summer{
+    background-color: rgb(255, 255, 0);
+}
+
+.autumn{
+    background-color: rgb(209, 128, 7);
+}
+
+.winter{
+    background-color: rgb(116, 199, 255);
+}
